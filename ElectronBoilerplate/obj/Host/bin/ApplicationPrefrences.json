@@ -1,0 +1,11 @@
+﻿{
+  "SettingList": [
+    {
+      "Name": "AutoRefreshIntervall",
+      "Value": "240",
+      "Unit": "s"
+    }
+  ],
+  "LastChangedDate": "2022-02-16T15:56:21.9760881+01:00",
+  "PathToSettingsJson": "./ApplicationPrefrences.json"
+}

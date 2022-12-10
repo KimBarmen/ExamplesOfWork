@@ -1,0 +1,27 @@
+﻿
+#north-component-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+    #north-component-group * {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    #north-component-group label {
+        margin-left: 10px;
+    }
+
+#settings-table {
+    padding: 0px 0px 0px 0px;
+    overflow-y: scroll;
+}
+    #settings-table .row-wide {
+        width: 200px;
+    }
+
+    #settings-table .row-narrow {
+        width: 100px;
+    }
+

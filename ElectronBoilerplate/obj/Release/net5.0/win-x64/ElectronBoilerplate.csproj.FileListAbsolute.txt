@@ -1,0 +1,134 @@
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ApplicationPrefrences.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\appsettings.Development.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\appsettings.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\electron.manifest.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\package-lock.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\package.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.StaticWebAssets.xml
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.exe
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.deps.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.runtimeconfig.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.runtimeconfig.dev.json
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ref\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.pdb
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.Views.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.Views.pdb
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\ElectronNET.API.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\EngineIoClientDotNet.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\SocketIoClientDotNet.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\SuperSocket.ClientEngine.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\bin\Release\net5.0\win-x64\WebSocket4Net.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.AssemblyReference.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.AssemblyInfoInputs.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.AssemblyInfo.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.CoreCompileInputs.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorComponent.input.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\App.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\DataSetView.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\Settings.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorComponent.output.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\RazorDeclaration\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.TagHelpers.input.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.TagHelpers.output.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorCoreGenerate.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\App.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Pages\DataSetView.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Pages\Index.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\_Imports.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Pages\Settings.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorAssemblyInfo.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorAssemblyInfo.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\staticwebassets\ElectronBoilerplate.StaticWebAssets.Manifest.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\staticwebassets\ElectronBoilerplate.StaticWebAssets.xml
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\scopedcss\Pages\Settings.razor.rz.scp.css
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\scopedcss\bundle\ElectronBoilerplate.styles.css
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\scopedcss\projectbundle\ElectronBoilerplate.bundle.scp.css
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorTargetAssemblyInfo.cache
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorTargetAssemblyInfo.cs
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.Views.pdb
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.CopyComplete
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ref\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.pdb
+C:\Users\kim.gundersen\source\Observer 2.0\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.genruntimeconfig.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ApplicationPrefrences.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\appsettings.Development.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\appsettings.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\electron.manifest.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\package-lock.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\package.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.StaticWebAssets.xml
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.exe
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.deps.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.runtimeconfig.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.runtimeconfig.dev.json
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ref\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.pdb
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.Views.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronBoilerplate.Views.pdb
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\ElectronNET.API.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\EngineIoClientDotNet.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\SocketIoClientDotNet.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\SuperSocket.ClientEngine.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\bin\Release\net5.0\win-x64\WebSocket4Net.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.AssemblyReference.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.AssemblyInfoInputs.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.AssemblyInfo.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.CoreCompileInputs.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorComponent.input.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\App.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\DataSetView.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Pages\Settings.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorComponent.output.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\RazorDeclaration\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.TagHelpers.input.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.TagHelpers.output.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorCoreGenerate.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\App.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Pages\DataSetView.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Pages\Index.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\_Imports.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Pages\Settings.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorAssemblyInfo.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorAssemblyInfo.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\staticwebassets\ElectronBoilerplate.StaticWebAssets.Manifest.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\staticwebassets\ElectronBoilerplate.StaticWebAssets.xml
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\scopedcss\Pages\Settings.razor.rz.scp.css
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\scopedcss\bundle\ElectronBoilerplate.styles.css
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\scopedcss\projectbundle\ElectronBoilerplate.bundle.scp.css
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorTargetAssemblyInfo.cache
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.RazorTargetAssemblyInfo.cs
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.Views.pdb
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.csproj.CopyComplete
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ref\ElectronBoilerplate.dll
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.pdb
+C:\Users\kim.gundersen\source\ElectronBoilerplate\Code\obj\Release\net5.0\win-x64\ElectronBoilerplate.genruntimeconfig.cache

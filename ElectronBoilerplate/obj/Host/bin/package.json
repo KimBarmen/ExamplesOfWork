@@ -1,0 +1,15 @@
+{
+    "name": "ElectronBoilerplate",
+    "version": "1.0.0",
+    "description": "A basic electron app",
+    "main": "Program.cs",
+    "scripts": {},
+    "keywords": [
+        "minimal"
+    ],
+    "author": "Kim",
+    "devDependencies": {
+        "electron": "^17.0.1"
+    },
+    "asar": false
+}

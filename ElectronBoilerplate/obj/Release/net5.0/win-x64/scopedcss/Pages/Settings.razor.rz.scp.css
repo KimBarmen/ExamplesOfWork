@@ -1,0 +1,27 @@
+
+#north-component-group[b-pw6fwf0tyk] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+    #north-component-group *[b-pw6fwf0tyk] {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    #north-component-group label[b-pw6fwf0tyk] {
+        margin-left: 10px;
+    }
+
+#settings-table[b-pw6fwf0tyk] {
+    padding: 0px 0px 0px 0px;
+    overflow-y: scroll;
+}
+    #settings-table .row-wide[b-pw6fwf0tyk] {
+        width: 200px;
+    }
+
+    #settings-table .row-narrow[b-pw6fwf0tyk] {
+        width: 100px;
+    }
+

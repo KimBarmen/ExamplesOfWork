@@ -1,0 +1,104 @@
+﻿@page "/settings"
+
+@using ElectronBoilerplate.Data
+@using System.IO
+@inject SettingsService SettingsService
+
+<h3>
+    Settings
+</h3>
+
+<div id="north-component-group">
+    <label> Settings-json: </label>
+    <form id="subittFile-btn">
+        <InputFile OnChange="OnInputFileChange" />
+    </form>
+    <input value="Load Selected" @onclick="LoadSettingsFromFile" type="button" />
+    <input value="Save Update" @onclick="SaveSettingsToFile" type="button" />
+</div>
+
+@if (settingsCollection == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    //<textarea id="settings-textarea" @bind="settingsCollection.SettingJson" />
+
+    <table id="settings-table">
+        <thead>
+            <tr>
+                <th class="row-wide"> Name </th>
+                <th class="row-narrow"> Value </th>
+                <th class="row-narrow"> Unit </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < settingsCollection.SettingList.Length; i++)
+            {
+                var settingsValue = settingsCollection.SettingList[i];
+                {
+                    <tr>
+                        <td>
+                            <input class=".row-wide" type="text" @bind="settingsValue.Name" />
+                        </td>
+                        <td>
+                            <input class="row-narrow" type="text" @bind="settingsValue.Value" />
+                        </td>
+                        <td>
+                            <input class="row-narrow" type="text" @bind="settingsValue.Unit" />
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+
+
+
+    </table>
+    <input type="button" value="+ Add New Setting" @onclick="AddNewSetting" />
+}
+
+
+
+@code {
+    private SettingsDto settingsCollection;
+    IBrowserFile selectedFile;
+
+    private void FormatTextArea()
+    {
+
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        settingsCollection = await new SettingsService().GetSettings("");
+    }
+
+    private void OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.GetMultipleFiles().FirstOrDefault();
+        this.StateHasChanged();
+    }
+
+    private async void LoadSettingsFromFile()
+    {
+        var fileName = selectedFile?.Name ?? settingsCollection.PathToSettingsJson;
+        settingsCollection = await new SettingsService().GetSettings(fileName);
+    }
+
+    private void SaveSettingsToFile()
+    {
+        new SettingsService().PostSettings(
+            settingsCollection,
+            selectedFile?.Name ?? settingsCollection.PathToSettingsJson
+        );
+    }
+
+    private void AddNewSetting()
+    {
+        var tmpList = settingsCollection.SettingList.ToList();
+        tmpList.Add(new() { Name = "NewItem", Value = "0", Unit = "Int" });
+        settingsCollection.SettingList = tmpList.ToArray();
+    }
+}
