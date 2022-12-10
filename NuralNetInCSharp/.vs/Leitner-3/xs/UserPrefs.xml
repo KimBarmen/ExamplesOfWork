@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4F4C2122-7A6D-4291-81A1-6D79353A1C88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/MainController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="22" />
+      <File FileName="src/Tools.cs" Line="1" Column="1" />
+      <File FileName="src/MatrixComponents/MatrixNet.cs" Line="76" Column="22" />
+      <File FileName="src/MatrixComponents/TraningParameters.cs" Line="21" Column="37" />
+      <File FileName="src/MatrixComponents/MatrixLayer.cs" Line="23" Column="39" />
+      <File FileName="src/MainController.cs" Line="75" Column="19" />
+      <File FileName="src/DataSources/StandardDataSet.cs" Line="70" Column="10" />
+      <File FileName="src/SampleComponents/TrainableSample.cs" Line="16" Column="1" />
+      <File FileName="src/SampleComponents/TrainableDataSet.cs" Line="62" Column="6" />
+      <File FileName="../../../Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/corefx/c4eeab9fc2faa0195a812e552cd73ee298d39386/src/Common/src/CoreLib/System/Random.cs" Line="217" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leitner-3" expanded="True">
+            <Node name="Leitner-3" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="DataSources" expanded="True" />
+                <Node name="MatrixComponents" expanded="True" />
+                <Node name="SampleComponents" expanded="True" />
+                <Node name="MainController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Leitner-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
